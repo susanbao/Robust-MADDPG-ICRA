@@ -1,0 +1,76 @@
+Partner Agents' Types: 
+[[0 0 0]
+ [0 0 0]
+ [0 0 0]]
+0-th agent's partner agents
+1-th agent's partner agents
+2-th agent's partner agents
+9  partner_trainers finished
+0 good agents
+1 good agents
+2 good agents
+3  trainers finished
+Using good policy rmaddpg and bad policy rmaddpg with 0 adversaries
+Uncertainty type is:  None ; Uncertainty level is:  0.1
+Starting iterations...
+steps: 24975, episodes: 1000, mean episode reward: -225.2971510525399, time: 18.884
+steps: 49975, episodes: 2000, mean episode reward: -247.67571887818414, time: 74.363
+steps: 74975, episodes: 3000, mean episode reward: -196.93275566255232, time: 68.478
+steps: 99975, episodes: 4000, mean episode reward: -185.58853581888707, time: 69.209
+steps: 124975, episodes: 5000, mean episode reward: -179.43852037208754, time: 69.266
+steps: 149975, episodes: 6000, mean episode reward: -175.46723546100588, time: 69.406
+steps: 174975, episodes: 7000, mean episode reward: -172.4280663906133, time: 69.602
+steps: 199975, episodes: 8000, mean episode reward: -169.77844495461284, time: 69.53
+steps: 224975, episodes: 9000, mean episode reward: -167.36705499397044, time: 69.653
+steps: 249975, episodes: 10000, mean episode reward: -164.3584965629202, time: 69.61
+steps: 274975, episodes: 11000, mean episode reward: -162.3145198444553, time: 70.563
+steps: 299975, episodes: 12000, mean episode reward: -162.30857953499665, time: 73.992
+steps: 324975, episodes: 13000, mean episode reward: -159.81519434411462, time: 71.709
+steps: 349975, episodes: 14000, mean episode reward: -159.4849700273645, time: 70.076
+steps: 374975, episodes: 15000, mean episode reward: -158.34776546803195, time: 70.04
+steps: 399975, episodes: 16000, mean episode reward: -157.33294323296383, time: 70.372
+steps: 424975, episodes: 17000, mean episode reward: -158.7487094720926, time: 70.168
+steps: 449975, episodes: 18000, mean episode reward: -157.98434865152993, time: 70.08
+steps: 474975, episodes: 19000, mean episode reward: -159.72112101733032, time: 70.288
+steps: 499975, episodes: 20000, mean episode reward: -158.27620423549106, time: 70.271
+steps: 524975, episodes: 21000, mean episode reward: -156.8971346253563, time: 70.354
+steps: 549975, episodes: 22000, mean episode reward: -157.56465752535007, time: 70.649
+steps: 574975, episodes: 23000, mean episode reward: -157.16306706642786, time: 70.711
+steps: 599975, episodes: 24000, mean episode reward: -157.08523123940714, time: 70.547
+steps: 624975, episodes: 25000, mean episode reward: -156.33712683320653, time: 70.561
+steps: 649975, episodes: 26000, mean episode reward: -156.26646598633207, time: 70.641
+steps: 674975, episodes: 27000, mean episode reward: -155.43907666791253, time: 71.075
+steps: 699975, episodes: 28000, mean episode reward: -155.79985333376152, time: 70.731
+steps: 724975, episodes: 29000, mean episode reward: -155.5205513475115, time: 70.787
+steps: 749975, episodes: 30000, mean episode reward: -156.55227518418738, time: 70.627
+steps: 774975, episodes: 31000, mean episode reward: -154.78257723467104, time: 70.753
+steps: 799975, episodes: 32000, mean episode reward: -156.0096842624132, time: 70.616
+steps: 824975, episodes: 33000, mean episode reward: -155.01799977403397, time: 70.506
+steps: 849975, episodes: 34000, mean episode reward: -154.392761743553, time: 71.164
+steps: 874975, episodes: 35000, mean episode reward: -154.63619704131395, time: 70.958
+steps: 899975, episodes: 36000, mean episode reward: -155.27612537091818, time: 70.803
+steps: 924975, episodes: 37000, mean episode reward: -154.01538802628852, time: 69.258
+steps: 949975, episodes: 38000, mean episode reward: -153.03901388859958, time: 70.917
+steps: 974975, episodes: 39000, mean episode reward: -152.97553487324367, time: 73.957
+steps: 999975, episodes: 40000, mean episode reward: -150.64427816058915, time: 73.904
+steps: 1024975, episodes: 41000, mean episode reward: -151.11076995477885, time: 74.241
+steps: 1049975, episodes: 42000, mean episode reward: -151.47757649136418, time: 74.307
+steps: 1074975, episodes: 43000, mean episode reward: -150.7973205518308, time: 71.667
+steps: 1099975, episodes: 44000, mean episode reward: -150.66576151671757, time: 71.161
+steps: 1124975, episodes: 45000, mean episode reward: -149.05070311539933, time: 71.168
+steps: 1149975, episodes: 46000, mean episode reward: -148.5752727804277, time: 71.161
+steps: 1174975, episodes: 47000, mean episode reward: -147.95204591951014, time: 73.217
+steps: 1199975, episodes: 48000, mean episode reward: -147.11656037268892, time: 74.088
+steps: 1224975, episodes: 49000, mean episode reward: -145.55734268831165, time: 73.019
+steps: 1249975, episodes: 50000, mean episode reward: -144.9346892669799, time: 71.586
+steps: 1274975, episodes: 51000, mean episode reward: -145.21363265197377, time: 68.927
+steps: 1299975, episodes: 52000, mean episode reward: -145.3503090306713, time: 70.724
+steps: 1324975, episodes: 53000, mean episode reward: -144.8372131430808, time: 71.368
+steps: 1349975, episodes: 54000, mean episode reward: -144.01326134462656, time: 71.241
+steps: 1374975, episodes: 55000, mean episode reward: -144.07576821830366, time: 70.936
+steps: 1399975, episodes: 56000, mean episode reward: -144.51695666392038, time: 71.25
+steps: 1424975, episodes: 57000, mean episode reward: -141.34820243307402, time: 71.331
+steps: 1449975, episodes: 58000, mean episode reward: -143.74059985498218, time: 70.333
+steps: 1474975, episodes: 59000, mean episode reward: -141.40817321342465, time: 68.165
+steps: 1499975, episodes: 60000, mean episode reward: -142.15755057116297, time: 71.504
+...Finished total of 60001 episodes.
