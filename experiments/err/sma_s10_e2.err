@@ -1,8 +1,8 @@
 nohup: ignoring input
-2021-09-11 18:57:18.026963: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
-2021-09-11 18:57:18.058214: E tensorflow/stream_executor/cuda/cuda_driver.cc:397] failed call to cuInit: CUDA_ERROR_UNKNOWN
-2021-09-11 18:57:18.058239: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:163] retrieving CUDA diagnostic information for host: feiNewML
-2021-09-11 18:57:18.058243: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:170] hostname: feiNewML
-2021-09-11 18:57:18.058269: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:194] libcuda reported version is: 470.57.2
-2021-09-11 18:57:18.058286: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:198] kernel reported version is: 470.57.2
-2021-09-11 18:57:18.058289: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:305] kernel version seems to match DSO: 470.57.2
+2021-09-13 02:26:34.823673: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-09-13 02:26:34.854610: E tensorflow/stream_executor/cuda/cuda_driver.cc:397] failed call to cuInit: CUDA_ERROR_UNKNOWN
+2021-09-13 02:26:34.854640: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:163] retrieving CUDA diagnostic information for host: feiNewML
+2021-09-13 02:26:34.854647: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:170] hostname: feiNewML
+2021-09-13 02:26:34.854683: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:194] libcuda reported version is: 470.57.2
+2021-09-13 02:26:34.854705: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:198] kernel reported version is: 470.57.2
+2021-09-13 02:26:34.854711: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:305] kernel version seems to match DSO: 470.57.2
